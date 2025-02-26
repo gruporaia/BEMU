@@ -1,0 +1,8 @@
+os
+tqdm
+google-generativeai
+argparse
+json
+shutil
+re
+pillow
